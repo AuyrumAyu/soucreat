@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "mechanica",
+  "version": "${version}",
+  "name": "Mechanica",
+  "description": "A small parody of Create: shafts, cogwheels, hand crank, water wheel, press, crusher and conveyor belt.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.mechanica.Mechanica"],
+    "client": ["com.mechanica.MechanicaClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

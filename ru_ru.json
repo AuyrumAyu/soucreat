@@ -1,0 +1,13 @@
+{
+  "itemGroup.mechanica.main": "Механика",
+  "block.mechanica.shaft": "Вал",
+  "block.mechanica.cogwheel": "Шестерня",
+  "block.mechanica.hand_crank": "Ручной привод",
+  "block.mechanica.water_wheel": "Водяное колесо",
+  "block.mechanica.press": "Механический пресс",
+  "block.mechanica.crusher": "Дробилка",
+  "block.mechanica.conveyor_belt": "Конвейерная лента",
+  "item.mechanica.iron_plate": "Железная пластина",
+  "item.mechanica.gold_plate": "Золотая пластина",
+  "item.mechanica.copper_plate": "Медная пластина"
+}

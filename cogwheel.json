@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "mechanica:block/cogwheel"
+    },
+    "axis=y": {
+      "model": "mechanica:block/cogwheel"
+    },
+    "axis=z": {
+      "model": "mechanica:block/cogwheel"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "variants": {
+    "facing=up": {
+      "model": "mechanica:block/hand_crank"
+    },
+    "facing=down": {
+      "model": "mechanica:block/hand_crank",
+      "x": 180
+    },
+    "facing=north": {
+      "model": "mechanica:block/hand_crank",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "mechanica:block/hand_crank",
+      "x": 270
+    },
+    "facing=east": {
+      "model": "mechanica:block/hand_crank",
+      "x": 90,
+      "y": 90
+    },
+    "facing=west": {
+      "model": "mechanica:block/hand_crank",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

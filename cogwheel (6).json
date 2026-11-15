@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "t": "minecraft:block/stripped_oak_log",
+    "m": "minecraft:block/iron_block",
+    "d": "minecraft:block/polished_blackstone",
+    "p": "minecraft:block/dark_oak_planks",
+    "g": "minecraft:block/gold_block",
+    "particle": "minecraft:block/stripped_oak_log"
+  },
+  "elements": []
+}

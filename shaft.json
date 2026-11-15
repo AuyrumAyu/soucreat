@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "mechanica:block/shaft"
+    },
+    "axis=y": {
+      "model": "mechanica:block/shaft"
+    },
+    "axis=z": {
+      "model": "mechanica:block/shaft"
+    }
+  }
+}

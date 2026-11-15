@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=north,running=false": {
+      "model": "mechanica:block/belt_static"
+    },
+    "facing=north,running=true": {
+      "model": "mechanica:block/belt_running"
+    },
+    "facing=east,running=false": {
+      "model": "mechanica:block/belt_static",
+      "y": 90
+    },
+    "facing=east,running=true": {
+      "model": "mechanica:block/belt_running",
+      "y": 90
+    },
+    "facing=south,running=false": {
+      "model": "mechanica:block/belt_static",
+      "y": 180
+    },
+    "facing=south,running=true": {
+      "model": "mechanica:block/belt_running",
+      "y": 180
+    },
+    "facing=west,running=false": {
+      "model": "mechanica:block/belt_static",
+      "y": 270
+    },
+    "facing=west,running=true": {
+      "model": "mechanica:block/belt_running",
+      "y": 270
+    }
+  }
+}

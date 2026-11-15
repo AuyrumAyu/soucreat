@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "mechanica:shaft",
+    "mechanica:cogwheel",
+    "mechanica:hand_crank",
+    "mechanica:water_wheel",
+    "mechanica:press",
+    "mechanica:crusher",
+    "mechanica:conveyor_belt"
+  ]
+}

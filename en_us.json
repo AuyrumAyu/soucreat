@@ -1,0 +1,13 @@
+{
+  "itemGroup.mechanica.main": "Mechanica",
+  "block.mechanica.shaft": "Shaft",
+  "block.mechanica.cogwheel": "Cogwheel",
+  "block.mechanica.hand_crank": "Hand Crank",
+  "block.mechanica.water_wheel": "Water Wheel",
+  "block.mechanica.press": "Mechanical Press",
+  "block.mechanica.crusher": "Crusher",
+  "block.mechanica.conveyor_belt": "Conveyor Belt",
+  "item.mechanica.iron_plate": "Iron Plate",
+  "item.mechanica.gold_plate": "Gold Plate",
+  "item.mechanica.copper_plate": "Copper Plate"
+}
